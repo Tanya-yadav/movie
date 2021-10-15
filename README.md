@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![alt tag](https://github.com/Tanya-yadav/movie/blob/master/lib/images/Screenshot%20(2382).png)
+![alt tag](https://github.com/Tanya-yadav/movie/blob/master/lib/images/Screenshot%20(2398).png)
+![alt tag](https://github.com/Tanya-yadav/movie/blob/master/lib/images/Screenshot%20(2397).png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
