@@ -1,6 +1,6 @@
 # cinemo
 
-A new Flutter project.
+APP which always keeps you updated about new, trending TV shows and Movies across the globe.
 
 ![alt tag](https://github.com/Tanya-yadav/movie/blob/master/lib/images/Screenshot%20(2382).png)
 ![alt tag](https://github.com/Tanya-yadav/movie/blob/master/lib/images/Screenshot%20(2398).png)
@@ -8,7 +8,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
